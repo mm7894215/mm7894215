@@ -52,13 +52,14 @@ AI CLI runs  →  hook fires  →  parse  →  local dashboard
 
 <div align="center">
 
-<!-- dark mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=mm7894215&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=ffffff&text_color=c9d1d9&theme=transparent#gh-dark-mode-only" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm7894215&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&hide_title=true#gh-dark-mode-only" height="150" />
-
-<!-- light mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=mm7894215&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=000000&text_color=333333&theme=transparent#gh-light-mode-only" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm7894215&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&hide_title=true#gh-light-mode-only" height="150" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mm7894215&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=ffffff&text_color=c9d1d9&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mm7894215&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=000000&text_color=333333&theme=transparent" height="150" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mm7894215&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm7894215&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&hide_title=true" height="150" />
+</picture>
 
 </div>
 
